@@ -1,13 +1,15 @@
 # Entrada
+# rama error: Cambiando la Entrada 
 #
 #
 # Salida
+# rama error: Cambiando la Salida 
 #
 #
 # Operaciones Enteros +, -, *, /
 #
 #
-# rama error: Cambiando la Salida 
+# rama complejos: Operaciones Complejos +, -
+# 
 #
-#
-# rama error: Cambiando la Entrada 
+# rama complejos: Operaciones Complejos *, /
