@@ -1,4 +1,7 @@
 # Entrada
 #
 #
-# #Salida
+# Salida
+#
+#
+# Operaciones Enteros +, -, *, /
